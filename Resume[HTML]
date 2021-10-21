@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Resume</title>
+  </head>
+  <body>
+    <ol>
+    <h1>Vishnu sathyapalan</h1>
+    <h5>[Web Developer]</h5>
+    <adress>RHB colony, Mahadevapura post Bangalore-560048</adress>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">E-mail</a>
+    <hr>
+    <h3>Career Goals</h3>
+    <br>
+    <p>1st of all thank u for this wonderfull opportunity of appering for role of system and applications services associate at such a renoved organization 
+this is a wonderful opportunity for me to get interviewed at such a renoved organization 
+since am a computer science student accenture will surely prove to be an excellent startform for me to establish my skills and knowledge in the competitive worls 
+even though am a start  up with myh career still i beleive i have a very good technical skills on the languages that i have learned yet and well experienced on using few languages from the projects i have taken up off with my skills mentioning some like working in a team, prortizer, managing task has taught me a significant principle which live by i.e never give up basically am revelient i will do my best in any given situation. and my education qualification and certified courses are very relevant with all this I assure u that i ll try my best and work hard to my potential so that i can contribute as much as i can towards the growth and welfare of this great brand </p>
+
+<section>
+<h5>Work Experience :</h5>
+<h6>main project:</h6>
+<ul>
+<li>E- commerce [Visual-Basics (ASP.net) and Oracle]</li>
+</ul>
+<h5>Skills :</h5>
+<ul>
+<li>Pursuing on java script codes</li>
+<li>Pursuing on python code</li> 
+<li>Skilled in python, java, SQL, Visual Basics, DBMS,C</li>
+<li>Web development with python</li> 
+</ul>
+<h5>Achievements :</h5>
+<ul>
+ <li>Active participation in community service program organized in school</li> 
+ <li>Volunteered GCCI’s nationwide program is spreading awareness about cancer</li> 
+ <li>Actively participated in school and college sports</li>
+</ul>
+<h5>Hobbies and Interests :</h5>
+<p>I love watching thriller movies and love exploring places . Iam a person fond of health so i do concentrate on fitness during my free time </p>
+
+<h5>References :</h5>
+<p>aaaa:bbbbb</p>
+
+</section>
+<hr>
+<footer>
+  <h5>Vishnu sathyapalan</h5>
+  <adress>RHB colony, Mahadevapura post Bangalore-560048</adress>
+</footer>
+  </ol>
+  </body>
+</html>
